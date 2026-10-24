@@ -62,6 +62,12 @@ I'm an **Information Technology engineering student** at the **University of Mum
 
 <br/>
 
+<img src="h-snapshot.svg" alt="At a glance" width="100%"/>
+
+<img src="stats.svg" alt="At a glance statistics" width="100%"/>
+
+<br/>
+
 <img src="h-research.svg" alt="Featured research" width="100%"/>
 
 <div align="center">
@@ -81,28 +87,34 @@ I'm an **Information Technology engineering student** at the **University of Mum
 
 <img src="h-work.svg" alt="Selected work" width="100%"/>
 
+<img src="hero.svg" alt="Intelligent Accident Response - final-year major project" width="100%"/>
+
+<br/>
+
 <table>
 <tr>
-<td width="50%"><img src="card-1.svg" alt="GreenGuide" width="100%"/></td>
-<td width="50%"><img src="card-2.svg" alt="Intelligent Accident Response" width="100%"/></td>
+<td width="50%"><img src="card-greenguide.svg" alt="GreenGuide" width="100%"/></td>
+<td width="50%"><img src="card-multi-agent.svg" alt="Multi-Agent Research Generator" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%"><img src="card-3.svg" alt="Multi-Agent Research Generator" width="100%"/></td>
-<td width="50%"><a href="https://github.com/Vedang07-eng/AURA-AI"><img src="card-4.svg" alt="AURA AI" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/AURA-AI"><img src="card-aura-ai.svg" alt="AURA AI" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/heart-disease-predict"><img src="card-heart-disease.svg" alt="Heart Disease Prediction" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/Vedang07-eng/heart-disease-predict"><img src="card-5.svg" alt="Heart Disease Prediction" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Vedang07-eng/datastraw-assignment"><img src="card-6.svg" alt="DataStraw Assignment" width="100%"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Vedang07-eng/spearmint"><img src="card-7.svg" alt="Spearmint" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Vedang07-eng/portfolio_1vedang"><img src="card-8.svg" alt="Portfolio Website" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/spearmint"><img src="card-spearmint.svg" alt="Spearmint" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/portfolio_1vedang"><img src="card-portfolio.svg" alt="Portfolio Website" width="100%"/></a></td>
 </tr>
 </table>
 
 <div align="center">
-<sub>Cards with a repository status are clickable. The accident-response project is in development and the multi-agent system is at design stage; links will be added when they are public.</sub>
+<sub>Cards for projects with a public repository are clickable. The accident-response project is in development and the multi-agent system is at design stage; links will be added when they are public.</sub>
 </div>
+
+<br/>
+
+<img src="h-flow.svg" alt="Agentic workflow concept" width="100%"/>
+
+<img src="flow.svg" alt="Concept multi-agent research and report workflow" width="100%"/>
 
 <br/>
 
