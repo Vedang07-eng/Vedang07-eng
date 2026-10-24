@@ -123,10 +123,6 @@ I'm an **Information Technology engineering student** at the **University of Mum
 <img src="skills-1.svg" alt="AI and ML skills" width="100%"/>
 <img src="skills-2.svg" alt="Backend, automation and tools" width="100%"/>
 
-<details>
-<summary><b>📚 Full toolkit (click to expand)</b></summary>
-<br/>
-
 | Area | Tools & concepts |
 | :-- | :-- |
 | 🤖 **AI & ML** | LLMs · Prompt Engineering · RAG · AI Agents · Scikit-learn · Feature Engineering · Data Preprocessing · Explainable AI (SHAP) |
@@ -134,7 +130,18 @@ I'm an **Information Technology engineering student** at the **University of Mum
 | 🧱 **Backend & data** | Python · SQL · FastAPI · PostgreSQL · MySQL · SQLAlchemy |
 | 🎨 **Frontend & tools** | React · HTML · CSS · Git · GitHub · Docker · Power BI · Streamlit |
 
-</details>
+<br/>
+
+<img src="h-activity.svg" alt="GitHub activity" width="100%"/>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedang07-eng&layout=compact&hide_border=true&bg_color=0B1220&title_color=14B8A6&text_color=E2E8F0&card_width=400" alt="Top languages"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedang07-eng&hide_border=true&background=0B1220&ring=14B8A6&fire=1D4ED8&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=14B8A6&sideNums=14B8A6&dates=94A3B8" alt="Streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedang07-eng&bg_color=0B1220&color=14B8A6&line=1D4ED8&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&radius=12" alt="Contribution activity graph" width="100%"/>
+
+</div>
 
 <br/>
 
@@ -148,14 +155,6 @@ I'm an **Information Technology engineering student** at the **University of Mum
 | **Advanced Python** | Cleaner, tested, production-minded code |
 | **AI-powered Automation** | End-to-end workflows with n8n and APIs |
 
-<details>
-<summary><b>📊 Live GitHub stats (optional, loads from external services)</b></summary>
-<br/>
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedang07-eng&layout=compact&hide_border=true&bg_color=0B1220&title_color=14B8A6&text_color=E2E8F0&card_width=380" alt="Top languages"/>
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedang07-eng&hide_border=true&background=0B1220&ring=14B8A6&fire=1D4ED8&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=14B8A6&sideNums=14B8A6&dates=94A3B8" alt="Streak stats"/>
-</div>
-</details>
 
 <br/>
 
