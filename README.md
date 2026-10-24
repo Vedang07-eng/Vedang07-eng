@@ -1,8 +1,8 @@
 <div align="center">
 
-<B>VEDANG RAJENDRA DHURI<B><Br>
+<H2><Bold>VEDANG RAJENDRA DHURI</Bold></H2><Br>
 AI & Automation Engineer · Agentic AI · Generative AI
-Building useful AI systems — from explainable machine learning to LLM-powered workflows.
+Building useful AI systems from explainable machine learning to LLM-powered workflows.
 <p>
   <a href="https://github.com/Vedang07-eng">
     <img src="https://img.shields.io/badge/GitHub-Vedang07--eng-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -17,7 +17,7 @@ Building useful AI systems — from explainable machine learning to LLM-powered 
 
 </div>
 
-/ About me
+
 I'm an Information Technology engineering student at the University of Mumbai, pursuing Honors in Data Science. My interests sit at the intersection of AI engineering, agentic systems, workflow automation, and explainable machine learning.
 
 I like turning ideas into practical applications: connecting models to APIs, building backend services, and making AI outputs easier to understand and use.
