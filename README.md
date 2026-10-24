@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Vedang Dhuri - AI & Automation Engineer" width="100%"/>
+<img src="banner.svg" alt="Vedang Dhuri - AI & Automation Engineer" width="100%"/>
 
-<img src="assets/typing.svg" alt="Typing animation" width="100%"/>
+<img src="typing.svg" alt="Typing animation" width="100%"/>
 
 <a href="https://linkedin.com/in/vedanggg"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://portfolio-1vedang.onrender.com"><img src="https://img.shields.io/badge/Portfolio-Explore-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -19,10 +19,10 @@
 
 <br/>
 
-<img src="assets/h-about.svg" alt="About me" width="100%"/>
+<img src="h-about.svg" alt="About me" width="100%"/>
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Terminal introduction" width="92%"/>
+<img src="terminal.svg" alt="Terminal introduction" width="92%"/>
 </div>
 
 <br/>
@@ -62,7 +62,7 @@ I'm an **Information Technology engineering student** at the **University of Mum
 
 <br/>
 
-<img src="assets/h-research.svg" alt="Featured research" width="100%"/>
+<img src="h-research.svg" alt="Featured research" width="100%"/>
 
 <div align="center">
 
@@ -79,24 +79,24 @@ I'm an **Information Technology engineering student** at the **University of Mum
 
 <br/>
 
-<img src="assets/h-work.svg" alt="Selected work" width="100%"/>
+<img src="h-work.svg" alt="Selected work" width="100%"/>
 
 <table>
 <tr>
-<td width="50%"><img src="assets/card-1.svg" alt="GreenGuide" width="100%"/></td>
-<td width="50%"><img src="assets/card-2.svg" alt="Intelligent Accident Response" width="100%"/></td>
+<td width="50%"><img src="card-1.svg" alt="GreenGuide" width="100%"/></td>
+<td width="50%"><img src="card-2.svg" alt="Intelligent Accident Response" width="100%"/></td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/card-3.svg" alt="Multi-Agent Research Generator" width="100%"/></td>
-<td width="50%"><a href="https://github.com/Vedang07-eng/AURA-AI"><img src="assets/card-4.svg" alt="AURA AI" width="100%"/></a></td>
+<td width="50%"><img src="card-3.svg" alt="Multi-Agent Research Generator" width="100%"/></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/AURA-AI"><img src="card-4.svg" alt="AURA AI" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/Vedang07-eng/heart-disease-predict"><img src="assets/card-5.svg" alt="Heart Disease Prediction" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Vedang07-eng/datastraw-assignment"><img src="assets/card-6.svg" alt="DataStraw Assignment" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/heart-disease-predict"><img src="card-5.svg" alt="Heart Disease Prediction" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/datastraw-assignment"><img src="card-6.svg" alt="DataStraw Assignment" width="100%"/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/Vedang07-eng/spearmint"><img src="assets/card-7.svg" alt="Spearmint" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/Vedang07-eng/portfolio_1vedang"><img src="assets/card-8.svg" alt="Portfolio Website" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/spearmint"><img src="card-7.svg" alt="Spearmint" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Vedang07-eng/portfolio_1vedang"><img src="card-8.svg" alt="Portfolio Website" width="100%"/></a></td>
 </tr>
 </table>
 
@@ -106,10 +106,10 @@ I'm an **Information Technology engineering student** at the **University of Mum
 
 <br/>
 
-<img src="assets/h-stack.svg" alt="Tech stack" width="100%"/>
+<img src="h-stack.svg" alt="Tech stack" width="100%"/>
 
-<img src="assets/skills-1.svg" alt="AI and ML skills" width="100%"/>
-<img src="assets/skills-2.svg" alt="Backend, automation and tools" width="100%"/>
+<img src="skills-1.svg" alt="AI and ML skills" width="100%"/>
+<img src="skills-2.svg" alt="Backend, automation and tools" width="100%"/>
 
 <details>
 <summary><b>📚 Full toolkit (click to expand)</b></summary>
@@ -126,7 +126,7 @@ I'm an **Information Technology engineering student** at the **University of Mum
 
 <br/>
 
-<img src="assets/h-learning.svg" alt="Currently learning" width="100%"/>
+<img src="h-learning.svg" alt="Currently learning" width="100%"/>
 
 | 🧭 Area | 🎯 Goal |
 | :-- | :-- |
@@ -147,7 +147,7 @@ I'm an **Information Technology engineering student** at the **University of Mum
 
 <br/>
 
-<img src="assets/h-connect.svg" alt="Let's connect" width="100%"/>
+<img src="h-connect.svg" alt="Let's connect" width="100%"/>
 
 <div align="center">
 
@@ -157,6 +157,6 @@ I'm an **Information Technology engineering student** at the **University of Mum
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>
+<img src="footer.svg" width="100%" alt="Thanks for visiting"/>
 
 </div>
