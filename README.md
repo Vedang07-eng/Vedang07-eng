@@ -1,6 +1,6 @@
 <div align="center">
 
-VEDANG RAJENDRA DHURI
+<B>VEDANG RAJENDRA DHURI<B><Br>
 AI & Automation Engineer · Agentic AI · Generative AI
 Building useful AI systems — from explainable machine learning to LLM-powered workflows.
 <p>
